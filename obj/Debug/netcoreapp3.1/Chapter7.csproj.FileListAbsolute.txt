@@ -1,0 +1,11 @@
+C:\Users\Hp\Documents\Programming\c#\Chapter7\bin\Debug\netcoreapp3.1\Chapter7.exe
+C:\Users\Hp\Documents\Programming\c#\Chapter7\bin\Debug\netcoreapp3.1\Chapter7.deps.json
+C:\Users\Hp\Documents\Programming\c#\Chapter7\bin\Debug\netcoreapp3.1\Chapter7.runtimeconfig.json
+C:\Users\Hp\Documents\Programming\c#\Chapter7\bin\Debug\netcoreapp3.1\Chapter7.runtimeconfig.dev.json
+C:\Users\Hp\Documents\Programming\c#\Chapter7\bin\Debug\netcoreapp3.1\Chapter7.dll
+C:\Users\Hp\Documents\Programming\c#\Chapter7\bin\Debug\netcoreapp3.1\Chapter7.pdb
+C:\Users\Hp\Documents\Programming\c#\Chapter7\obj\Debug\netcoreapp3.1\Chapter7.csprojAssemblyReference.cache
+C:\Users\Hp\Documents\Programming\c#\Chapter7\obj\Debug\netcoreapp3.1\Chapter7.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\Programming\c#\Chapter7\obj\Debug\netcoreapp3.1\Chapter7.AssemblyInfo.cs
+C:\Users\Hp\Documents\Programming\c#\Chapter7\obj\Debug\netcoreapp3.1\Chapter7.dll
+C:\Users\Hp\Documents\Programming\c#\Chapter7\obj\Debug\netcoreapp3.1\Chapter7.pdb
